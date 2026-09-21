@@ -1,0 +1,32 @@
+﻿====================================================
+           COMPUTER PULSE - HARDWARE & NETWORK LOG   
+====================================================
+Timestamp          : 2026-09-21 11:21:17
+Active Processes   : 258 running processes
+CPU Utilization    : 25% load
+----------------------------------------------------
+Top 3 Memory-Consuming Processes:
+
+Name      RAM_MB
+----      ------
+chrome    312.21
+ShellHost 120.31
+chrome    118.25
+
+
+
+----------------------------------------------------
+Disk Storage Breakdown:
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:        52.06   118.4
+D:        55.72   58.02
+
+
+
+----------------------------------------------------
+Network Diagnostics:
+Active IPv4 Address: 10.9.4.167
+Internet Latency   : Host Unreachable (Target: 8.8.8.8)
+====================================================
